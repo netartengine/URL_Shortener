@@ -1,0 +1,5 @@
+.container{min-height: 100vh;}
+.shortenDetails{display: none;}
+.copyShorten{display: none;}
+.shortenDetails a{text-decoration: none;}
+.shortenDetails a:hover{text-decoration: underline;}
